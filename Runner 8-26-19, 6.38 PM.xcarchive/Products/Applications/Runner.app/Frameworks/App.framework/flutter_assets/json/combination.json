@@ -1,0 +1,104 @@
+{
+  "comb1":{
+    "id": 1,
+    "rank":100,
+    "tier":"S",
+    "name":"阵容名字1",
+    "classes": [
+      ["Ranger", "4"],
+      ["Demon", "2"],
+      ["Glacial", "2"],
+      ["Phantom", "2"],
+      ["Knight", "2"]
+    ],
+    "champions":[
+      "Vayne",
+      "Mordekaiser",
+      "Varus",
+      "Aatrox",
+      "Ashe",
+      "Kindred",
+      "Sejuani"
+    ],
+    "core":[
+      "Ashe"
+    ]
+  },
+  "comb2":{
+    "id": 2,
+    "rank":200,
+    "tier":"A",
+    "name":"阵容名字2",
+    "classes": [
+      ["Brawler", "4"],
+      ["Sorcerer", "3"],
+      ["Void", "3"],
+      ["Wild", "2"],
+      ["Robot", "1"]
+    ],
+    "champions":[
+      "Warwick",
+      "Kassadin",
+      "Ahri",
+      "Blitzcrank",
+      "Lulu",
+      "RekSai",
+      "Chogath"
+    ],
+    "core":[
+      "Lulu"
+    ]
+  },
+  "comb3":{
+    "id": 3,
+    "rank":300,
+    "tier":"B",
+    "name":"阵容名字3",
+    "classes": [
+      ["Sorcerer", "6"],
+      ["Void", "3"],
+      ["Brawler", "2"],
+      ["Dragon", "2"]
+    ],
+    "champions":[
+      "Kassadin",
+      "Lulu",
+      "RekSai",
+      "Shyvana",
+      "Veigar",
+      "AurelionSol",
+      "Chogath",
+      "Karthus"
+    ],
+    "core":[
+      "Karthus"
+    ]
+  },
+  "comb4":{
+    "id": 4,
+    "rank":400,
+    "tier":"C",
+    "name":"阵容名字4",
+    "classes": [
+      ["Blademaster", "9"],
+      ["Demon", "4"],
+      ["Imperial", "2"],
+      ["Exile", "1"],
+      ["Ninja", "1"]
+    ],
+    "champions":[
+      "Fiora",
+      "Shen",
+      "Varus",
+      "Aatrox",
+      "Gangplank",
+      "Brand",
+      "Draven",
+      "Swain",
+      "Yasuo"
+    ],
+    "core":[
+      "Yasuo"
+    ]
+  }
+}
